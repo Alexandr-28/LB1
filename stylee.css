@@ -1,0 +1,35 @@
+span{
+    font-size:22px;
+}
+
+th,td,table{
+    font-size:18px;
+    margin:0;
+    padding:0;
+}
+
+.ylw{
+    background:gold;
+}
+
+.pnk{
+    background:pink;
+}
+
+
+.sp{
+    font-size:13px;
+}
+
+form{
+    width: 30%;
+}
+
+legend{
+    margin: 0 auto;
+}
+
+div{
+    float:left;
+    margin:0;
+}
